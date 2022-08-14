@@ -4,7 +4,7 @@
 #
 Name     : pypi-sphinx_ansible_theme
 Version  : 0.9.1
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/ee/df/e60542b260c71b9e8c39647a0f3605d44500012dbcc235f69880abe626c8/sphinx-ansible-theme-0.9.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ee/df/e60542b260c71b9e8c39647a0f3605d44500012dbcc235f69880abe626c8/sphinx-ansible-theme-0.9.1.tar.gz
 Summary  : Ansible Sphinx Theme
